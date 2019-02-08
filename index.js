@@ -24,4 +24,3 @@ function driversByName(drivers){
     return a.localeCompare(b)
   })
 }
-
